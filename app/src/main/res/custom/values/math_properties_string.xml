@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- name application -->
+    <string name="name_mp_application">Math Properties</string>
+    <string name="toast_home">You\'re in Activity Home</string>
+    <!-- navigate menu -->
+    <string name="it_home">Home</string>
+    <string name="it_git">Contact</string>
+    <!-- navigate menu -->
+
+    <!-- activity home -->
+    <string name="title_home">Choose some activities <b>&#128071;</b></string>
+    <!-- activity home -->
+
+    <!-- activity bmi -->
+    <string name="title_bmi">BMI <b>&#128107;</b></string>
+    <string name="title_weight">Put on your weight</string>
+    <string name="title_height">Put on your height</string>
+    <string name="hint_weight">00.00</string>
+    <string name="hint_height">000.00</string>
+    <string name="unit_weight">(Kg.)</string>
+    <string name="unit_height">(Cm.)</string>
+    <string name="bt_bmi">send</string>
+    <!-- activity bmi -->
+
+
+    <!-- activity percentage -->
+    <string name="title_percentage">Percentage <b>&#128161;</b></string>
+    <string name="title_info_tell_user">How to calculate Percentage ?</string>
+    <string name="text_formula">Formula Percentage = (Value/Total Value)×100</string>
+    <string name="text_example"><b>Example , In a class of 40 children , 10 are girls Then what is the percentage of girls ?</b></string>
+    <string name="text_solution">Solution : Here , the number of girls = 10 The total number of children = 40 By the percentage formula the percentage of girls = 10/40 × 100 = 25%</string>
+    <string name="hit_a">00.0</string>
+    <string name="text_descript_a">Your number for finding %</string>
+    <string name="text_descript_b">Total number that you need</string>
+    <string name="hit_b">00.00</string>
+    <!-- activity percentage -->
+
+    <!-- activity multiply-table -->
+    <string name="title_table">Multiply-Table <b>&#10060;</b></string>
+    <string name="hint_multitable_test">n x 1 equal 1n\nn x 2 equal 2n\nn x 3 equal 3n\nn x 4 equal 4n\nn x 5 equal 5n\nn x 6 equal 6n\nn x 7 equal 7n\nn x 8 equal 8n\nn x 9 equal 9n\nn x 10 equal 10n</string>
+    <string name="hint_table">n</string>
+</resources>

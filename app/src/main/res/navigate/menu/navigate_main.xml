@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_parent"
+        android:icon="@mipmap/tools"
+        app:showAsAction="always"
+        android:title="@string/app_name">
+        <menu>
+                <item
+                        android:orderInCategory="100"
+                        android:id="@+id/item_child_home"
+                        android:title="@string/it_home"
+                        android:icon="@mipmap/home"/>
+                <item
+                        android:orderInCategory="100"
+                        android:id="@+id/item_child_contact"
+                        android:title="@string/it_git"
+                        android:icon="@mipmap/git"/>
+        </menu>
+    </item>
+
+</menu>

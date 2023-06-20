@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- color for activity bmi -->
+    <color name="result_bmi">#ffab00</color>
+    <color name="bad_input">#b71c1c</color>
+    <color name="nice_input">#006F2E</color>
+
+    <!-- color for activity percentage -->
+    <color name="result_percentage">#ffab00</color>
+
+    <!-- color for activity multiply-table -->
+    <color name="result_multiply_table">#fff</color>
+
+</resources>
